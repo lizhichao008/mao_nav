@@ -3,7 +3,7 @@ export const mockData = {
     {
       "id": "my-favorites",
       "name": "我的常用",
-      "icon": "💥",
+      "icon": "",
       "order": 0,
       "sites": [
         {
@@ -46,7 +46,7 @@ export const mockData = {
     {
       "id": "ai-tools",
       "name": "AI智能",
-      "icon": "🤖",
+      "icon": "",
       "order": 1,
       "sites": [
         {
@@ -481,7 +481,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "EffyFlow",
-  "search": "baidu",
-  "_fileSha": "13130877c0b37cb79f6f41656d5fe0fb2b581ea1"
+  "title": "EffyFlow"
 }
